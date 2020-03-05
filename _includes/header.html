@@ -1,7 +1,19 @@
 {%- assign page_paths = site.header_pages | default: default_paths -%}
 <header>
+  <style>
+    .header-image {
+    height: 200px;
+    width: 600px;
+  }
+  @media only screen and (max-device-width: 500px) {
+      .header-image {
+          height: 100px;
+          width: 100%
+      }
+  }
+  </style>
   <div>
-      <img src="/assets/logo.jpg" width="600" height="200"/>
+      <img class="header-image" src="/assets/logo.jpg" />
   </div>
   <div class="menu">
     <ul>

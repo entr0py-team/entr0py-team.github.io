@@ -18,10 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Entr0py Collective
+title: entr0py Collective
 email: ""
 description: >- # this means to ignore newlines until "baseurl:"
-  The Entr0py team's collection of CTF (capture-the-flag) writeups.
+  The entr0py team's blog & collection of CTF (capture-the-flag) writeups.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://entr0py-team.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ""
