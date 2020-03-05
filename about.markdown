@@ -49,7 +49,7 @@ Skills:
 
 ### Naveed Nadjmabadi
 
-- Hacker alias: h@ckerDr3@mz
+- Hacker alias: h@ckerDr3@mz / m@gic
 - Current Occupation: Senior Software Engineer, Carta
 - Personal Site: https://naveed.dev
 - Twitter: [@nudgemybody](https://twitter.com/nudgemybody)
