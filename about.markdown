@@ -6,7 +6,7 @@ permalink: /about/
 
 # Origins
 
-The origins of the Entr0py team started in NYC 2017. "The Company" hired 4 engineers (Zill, Naveed, Omar, Ani) to build out the Identity Management and Authentication services for the platform. The team's name? You guessed it. Over time, each engineer left the company, but continued to bounce ideas off of each other and stay in touch.
+The origins of the Entr0py team started in NYC 2017. "The Company" hired 4 engineers to build out the Identity Management and Authentication services for the platform. The team's name? You guessed it. Over time, each engineer left the company, but continued to bounce ideas off of each other and stay in touch.
 
 In the Defcon 2019 OpenCTF competition, the team reunited for their first CTF, where they managed to get 39/200. Since then, the team has been steadily improving and practicing, gearing up for the 2020 Defcon OpenCTF.
 <br />
@@ -15,14 +15,7 @@ In the Defcon 2019 OpenCTF competition, the team reunited for their first CTF, w
 
 ## Team Members
 
-### Zill Christian
-
-- Hacker alias: Xer0x
-- Current Occupation: Senior Security Engineer, Netflix
-- Personal Site: https://zillwc.com
-
-<br />
-
+### x3r0x
 Skills:
 
 - Web
@@ -30,7 +23,6 @@ Skills:
 - Programming
 - Reverse Engineering
 - Binary Analysis
-
 
 ### Omar Darwish
 
